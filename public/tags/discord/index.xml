@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Discord on The Fixer</title>
+    <link>http://localhost:1313/the-fixer/tags/discord/</link>
+    <description>Recent content in Discord on The Fixer</description>
+    <generator>Hugo -- 0.155.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Jan 2026 14:35:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/the-fixer/tags/discord/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discord Mic Not Working? 5 Easy Fixes</title>
+      <link>http://localhost:1313/the-fixer/posts/discord-mic-not-working/</link>
+      <pubDate>Sat, 31 Jan 2026 14:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-fixer/posts/discord-mic-not-working/</guid>
+      <description>Can you hear them, but they can&amp;#39;t hear you? Fix your Discord microphone issues on Windows 11/10.</description>
+    </item>
+  </channel>
+</rss>

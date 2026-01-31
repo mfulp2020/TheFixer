@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Error NW-2-5 on The Fixer</title>
+    <link>http://localhost:1313/the-fixer/tags/error-nw-2-5/</link>
+    <description>Recent content in Error NW-2-5 on The Fixer</description>
+    <generator>Hugo -- 0.155.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Jan 2026 14:35:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/the-fixer/tags/error-nw-2-5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Netflix Error NW-2-5: Connection Fixes</title>
+      <link>http://localhost:1313/the-fixer/posts/netflix-error-nw-2-5/</link>
+      <pubDate>Sat, 31 Jan 2026 14:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-fixer/posts/netflix-error-nw-2-5/</guid>
+      <description>Cannot connect to Netflix? Error NW-2-5 means a network connectivity issue. Here is how to resolve it.</description>
+    </item>
+  </channel>
+</rss>

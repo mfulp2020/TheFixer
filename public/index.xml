@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Fixer</title>
+    <link>http://localhost:1313/the-fixer/</link>
+    <description>Recent content on The Fixer</description>
+    <generator>Hugo -- 0.155.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Jan 2026 14:35:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/the-fixer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discord Mic Not Working? 5 Easy Fixes</title>
+      <link>http://localhost:1313/the-fixer/posts/discord-mic-not-working/</link>
+      <pubDate>Sat, 31 Jan 2026 14:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-fixer/posts/discord-mic-not-working/</guid>
+      <description>Can you hear them, but they can&amp;#39;t hear you? Fix your Discord microphone issues on Windows 11/10.</description>
+    </item>
+    <item>
+      <title>How to Fix iPhone Error 4013 (2026 Updated Guide)</title>
+      <link>http://localhost:1313/the-fixer/posts/iphone-error-4013/</link>
+      <pubDate>Sat, 31 Jan 2026 14:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-fixer/posts/iphone-error-4013/</guid>
+      <description>Is your iPhone stuck on the Apple logo with Error 4013? Here is the step-by-step fix to restore your device without losing data.</description>
+    </item>
+    <item>
+      <title>How to Fix Roblox Error Code 277 (Connection Lost)</title>
+      <link>http://localhost:1313/the-fixer/posts/roblox-error-code-277/</link>
+      <pubDate>Sat, 31 Jan 2026 14:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-fixer/posts/roblox-error-code-277/</guid>
+      <description>Roblox keeps disconnecting with Error 277? Learn how to fix server connection issues on PC, Mobile, and Tablet.</description>
+    </item>
+    <item>
+      <title>Minecraft Exit Code 0: How to Fix Crashes</title>
+      <link>http://localhost:1313/the-fixer/posts/minecraft-exit-code-0/</link>
+      <pubDate>Sat, 31 Jan 2026 14:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-fixer/posts/minecraft-exit-code-0/</guid>
+      <description>Minecraft keeps crashing with Exit Code 0? It&amp;#39;s usually a Java or Mod issue. Here is the fix.</description>
+    </item>
+    <item>
+      <title>Netflix Error NW-2-5: Connection Fixes</title>
+      <link>http://localhost:1313/the-fixer/posts/netflix-error-nw-2-5/</link>
+      <pubDate>Sat, 31 Jan 2026 14:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-fixer/posts/netflix-error-nw-2-5/</guid>
+      <description>Cannot connect to Netflix? Error NW-2-5 means a network connectivity issue. Here is how to resolve it.</description>
+    </item>
+    <item>
+      <title>PS5 Error CE-108255-1: Game Crashes Fixed</title>
+      <link>http://localhost:1313/the-fixer/posts/ps5-error-ce-108255-1/</link>
+      <pubDate>Sat, 31 Jan 2026 14:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-fixer/posts/ps5-error-ce-108255-1/</guid>
+      <description>Is your PS5 game crashing to the home screen with CE-108255-1? Here are the official fixes from Sony.</description>
+    </item>
+    <item>
+      <title>Windows Update Error 0x80070002: Fixed (2026)</title>
+      <link>http://localhost:1313/the-fixer/posts/windows-error-0x80070002/</link>
+      <pubDate>Sat, 31 Jan 2026 14:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-fixer/posts/windows-error-0x80070002/</guid>
+      <description>Windows Update failing with 0x80070002? Here is how to delete corrupted update files and force the install.</description>
+    </item>
+  </channel>
+</rss>
